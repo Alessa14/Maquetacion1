@@ -1,0 +1,40 @@
+.body{
+  border: 2px solid black;
+  padding: 10px;
+}
+#marco{
+
+}
+
+.header{
+  font-size: 20px;
+  padding: 40px;
+  border: 1px solid black;
+}
+#base{
+  width: 100%;
+  display: inline-flex;
+
+
+}
+#nav1 {
+  width: 30%;
+  padding: 40px;
+  border: 1px solid black;
+}
+#nav2{
+  width: 70%;
+  border:  1px solid black;
+  padding: 10px;
+}
+
+body div.article{
+  padding: 40px;
+  border:  1px solid black;
+
+}
+
+#footer{
+  padding: 60px;
+  border: 1px solid black;
+}
